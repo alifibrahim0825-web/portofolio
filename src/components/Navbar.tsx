@@ -43,7 +43,7 @@ export default function Navbar() {
         <div className="max-w-6xl mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <Link to="/" className="text-xl font-semibold tracking-tight">
-              AI.
+              Alif's Portfolio
             </Link>
 
             {/* Desktop Navigation */}
