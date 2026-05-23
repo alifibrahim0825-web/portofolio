@@ -35,7 +35,7 @@ export default function Contact() {
         <div className="max-w-6xl mx-auto">
           <AnimatedSection>
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-              Massage Me!
+              Message Me!
             </h1>
             <p className="text-xl text-slate-400 max-w-2xl">
               Have a project in mind? Let's work together to bring your ideas to life.
@@ -163,7 +163,7 @@ export default function Contact() {
                         required
                         rows={5}
                         className="w-full px-4 py-3 bg-slate-900 border border-slate-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-900 focus:border-transparent text-slate-100 transition-all resize-none"
-                        placeholder="Massage me! "
+                        placeholder="Message me! "
                       />
                     </div>
 
