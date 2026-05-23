@@ -1,5 +1,4 @@
-import { motion } from 'framer-motion'
-import { Download, MapPin, Calendar, Briefcase } from 'lucide-react'
+import { MapPin, Briefcase } from 'lucide-react'
 import AnimatedSection from '../components/AnimatedSection'
 import SkillBar from '../components/SkillBar'
 
@@ -11,14 +10,7 @@ const skills = [
   { name: 'PostgreSQL / MongoDB', percentage: 75 },
 ]
 
-const experiences = [
-  {
-    title: 'Junior Developer',
-    company: 'Startup Inc',
-    period: '2018 - 2020',
-    description: 'Built responsive websites and learned modern development practices',
-  },
-]
+
 
 export default function About() {
   return (

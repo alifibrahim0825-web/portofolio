@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
-import { ArrowRight, Code2, CodeSquare, Palette, Zap } from 'lucide-react'
+import { ArrowRight, CodeSquare, Palette } from 'lucide-react'
 import AnimatedSection from '../components/AnimatedSection'
 
 export default function Home() {
